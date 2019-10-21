@@ -1,0 +1,10 @@
+Product
+
+name
+detail
+price
+rating
+comments
+count
+heilights
+brand
